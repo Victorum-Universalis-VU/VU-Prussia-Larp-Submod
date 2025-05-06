@@ -3948,10 +3948,10 @@ country_decisions = {
 		}
 		effect = {
 			outer_mongolia_area = {
-				add_core = M0N
+				add_core = M0G
 			}
-			release = M0N
-		 M0N = {
+			release = M0G
+		 M0G = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -3966,10 +3966,10 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = M0N
+				who = M0G
 			}
 			mongolia_region = {
-				add_permanent_claim = M0N
+				add_permanent_claim = M0G
 			}
 		}
 	}
