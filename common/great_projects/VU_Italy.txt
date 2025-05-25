@@ -1,0 +1,84 @@
+#New VU ToR v1.37 Italy additions by SF 
+vu_pasta = { #Beach Monument
+    start = 118
+    date = 1444.11.11
+    time = { months = 0 }
+    build_cost = 0
+    can_be_moved = no
+    move_days_per_unit_distance = 7
+    starting_tier = 0
+    type = monument
+    build_trigger = {
+        OR = {
+            culture_group = latin
+            culture_group = old_latin
+        }
+        OR = {
+            has_owner_culture = yes
+            has_owner_accepted_culture = yes
+        }
+    }
+    on_built = { }
+    on_destroyed = { }
+    can_use_modifiers_trigger = {
+        OR = {
+            culture_group = latin
+            culture_group = old_latin
+        }
+        OR = {
+            has_owner_culture = yes
+            has_owner_accepted_culture = yes
+        }
+    }
+    can_upgrade_trigger = {
+        OR = {
+            culture_group = latin
+            culture_group = old_latin
+        }
+        OR = {
+            has_owner_culture = yes
+            has_owner_accepted_culture = yes
+        }
+    }
+    keep_trigger = {}
+
+    tier_0 = {
+        upgrade_time = { months = 0	}
+        cost_to_upgrade = {	factor = 0 }
+        province_modifiers = {}
+        area_modifier = {}
+        country_modifiers = {}
+        on_upgraded = {}
+    }
+    tier_1 = {
+        upgrade_time = { months = 240 }
+        cost_to_upgrade = {	factor = 3500 }
+        province_modifiers = {
+            local_hostile_attrition = -1
+        }
+        area_modifier = {
+            local_prosperity_growth = -0.1
+        }
+        country_modifiers = {
+            own_territory_dice_roll_bonus = 1
+            prestige = 1
+        }
+        on_upgraded = {}
+    }
+    tier_2 = {
+        upgrade_time = { months = 480 }
+        cost_to_upgrade = {	factor = 4000 }
+        province_modifiers = {}
+        area_modifier = {}
+        country_modifiers = {}
+        on_upgraded = {}
+    }
+    tier_3 = {
+        upgrade_time = { months = 960 }
+        cost_to_upgrade = {	factor = 9000 }
+        province_modifiers = {}
+        area_modifier = {}
+        country_modifiers = {}
+        on_upgraded = {}
+    }
+}
