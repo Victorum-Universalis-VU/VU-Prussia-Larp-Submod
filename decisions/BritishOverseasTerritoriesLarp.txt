@@ -2060,10 +2060,10 @@ country_decisions = {
 		}
 		effect = {
 			western_morocco_area = {
-				add_core = M0R
+				add_core = M0C
 			}
-			release = M0R
-			M0R = {
+			release = M0C
+			M0C = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -2078,16 +2078,16 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = M0R
+				who = M0C
 			}
 			northern_morocco_area = {
-				add_permanent_claim = M0R
+				add_permanent_claim = M0C
 			}
 			southern_morocco_area = {
-				add_permanent_claim = M0R
+				add_permanent_claim = M0C
 			}
 			marrakesh_area = {
-				add_permanent_claim = M0R
+				add_permanent_claim = M0C
 			}
 		}
 	}
@@ -2308,10 +2308,10 @@ country_decisions = {
 		}
 		effect = {
 			rio_de_janeiro_area = {
-				add_core = BR4
+				add_core = B4Z
 			}
-			release = BR4
-			BR4 = {
+			release = B4Z
+			B4Z = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -2326,10 +2326,10 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = BR4
+				who = B4Z
 			}
 			brazil_region = {
-				add_permanent_claim = BR4
+				add_permanent_claim = B4Z
 			}
 		}
 	}
@@ -3804,10 +3804,10 @@ country_decisions = {
 		}
 		effect = {
 			micronesia_area = {
-				add_core = M1C
+				add_core = M1R
 			}
-			release = M1C
-			M1C = {
+			release = M1R
+			M1R = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -3822,10 +3822,10 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = M1C
+				who = M1R
 			}
 			hudson_bay_region = {
-				add_permanent_claim = M1C
+				add_permanent_claim = M1R
 			}
 		}
 	}
@@ -3996,10 +3996,10 @@ country_decisions = {
 		}
 		effect = {
 			iraq_e_ajam_area = {
-				add_core = P3R
+				add_core = P3S
 			}
-			release = P3R
-			P3R = {
+			release = P3S
+			P3S = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -4014,13 +4014,13 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = P3R
+				who = P3S
 			}
 			persia_region = {
-				add_permanent_claim = P3R
+				add_permanent_claim = P3S
 			}
 			khorasan_region = {
-				add_permanent_claim = P3R
+				add_permanent_claim = P3S
 			}
 		}
 	}
@@ -4095,10 +4095,10 @@ country_decisions = {
 		}
 		effect = {
 			palembang_area = {
-				add_core = SM4
+				add_core = SM7
 			}
-			release = SM4
-		 SM4 = {
+			release = SM7
+		 SM7 = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -4113,10 +4113,10 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = SM4
+				who = SM7
 			}
 			sumatran_region = {
-				add_permanent_claim = SM4
+				add_permanent_claim = SM7
 			}
 		}
 	}
@@ -4143,10 +4143,10 @@ country_decisions = {
 		}
 		effect = {
 			taiwan_area = {
-				add_core = T4I
+				add_core = TA7
 			}
-			release = T4I
-		 T4I = {
+			release = TA7
+		 TA7 = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -4161,10 +4161,10 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = T4I
+				who = TA7
 			}
 			south_china_region = {
-				add_permanent_claim = T4I
+				add_permanent_claim = TA7
 			}
 		}
 	}
@@ -4287,10 +4287,10 @@ country_decisions = {
 		}
 		effect = {
 			qingzhou_area = {
-				add_core = Q1N
+				add_core = Q1O
 			}
-			release = Q1N
-		 Q1N = {
+			release = Q1O
+		 Q1O = {
 				change_religion = ROOT
 				change_government = monarchy
 				set_government_rank = 7
@@ -4305,7 +4305,7 @@ country_decisions = {
 			}
 			create_subject = {
 				subject_type = self_governing_dominion_vu
-				who = Q1N
+				who = Q1O
 			}
 		}
 	}

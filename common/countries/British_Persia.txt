@@ -1,4 +1,4 @@
-#P3R - British Persia
+#P3S - British Persia
 
 graphical_culture = westerngfx
 

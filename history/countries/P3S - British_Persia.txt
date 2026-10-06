@@ -1,4 +1,4 @@
-#SM4 - British Sumatra
+#P3S - British Persia
 government = monarchy
 add_government_reform = unlocked_eue_duchy_reform
 government_rank = 6 #Duchy
@@ -7,4 +7,4 @@ technology_group = english_tech_group
 unit_type = western
 religion = catholic
 primary_culture = english
-capital = 622 #Palembang
+capital = 428 #Teheran

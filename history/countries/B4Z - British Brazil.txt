@@ -1,4 +1,4 @@
-#M1C - British Micronesia
+#B4Z - British Brazil
 government = monarchy
 add_government_reform = unlocked_eue_duchy_reform
 government_rank = 6 #Duchy
@@ -7,4 +7,4 @@ technology_group = english_tech_group
 unit_type = western
 religion = catholic
 primary_culture = english
-capital = 1996 #Palau
+capital = 763 #Rio de Janeiro

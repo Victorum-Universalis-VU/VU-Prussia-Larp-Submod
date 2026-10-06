@@ -1,4 +1,4 @@
-#SM4 - British Sumatra
+#SM7 - British Sumatra
 
 graphical_culture = westerngfx
 

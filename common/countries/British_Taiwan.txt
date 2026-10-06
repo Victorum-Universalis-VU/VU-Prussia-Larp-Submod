@@ -1,4 +1,4 @@
-#T4I - British Taiwan
+#TA7 - British Taiwan
 
 graphical_culture = westerngfx
 

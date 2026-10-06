@@ -1,4 +1,4 @@
-#M0R - British Morocco
+#M0C - British Morocco
 
 graphical_culture = westerngfx
 

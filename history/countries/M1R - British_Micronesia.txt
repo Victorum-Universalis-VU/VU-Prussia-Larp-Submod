@@ -1,4 +1,4 @@
-#M0R - British Morocco
+#M1R - British Micronesia
 government = monarchy
 add_government_reform = unlocked_eue_duchy_reform
 government_rank = 6 #Duchy
@@ -7,4 +7,4 @@ technology_group = english_tech_group
 unit_type = western
 religion = catholic
 primary_culture = english
-capital = 343 #Fez
+capital = 1996 #Palau

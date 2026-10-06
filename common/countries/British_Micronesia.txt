@@ -1,4 +1,4 @@
-#M1C - British Micronesia
+#M1R - British Micronesia
 
 graphical_culture = westerngfx
 
