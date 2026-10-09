@@ -1,4 +1,4 @@
-#SW7 - British Switzerland
+#A19 - British Switzerland
 
 graphical_culture = westerngfx
 

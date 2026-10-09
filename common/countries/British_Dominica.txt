@@ -1,4 +1,4 @@
-#D0M - British Dominica
+#A71 - British Dominica
 
 graphical_culture = westerngfx
 

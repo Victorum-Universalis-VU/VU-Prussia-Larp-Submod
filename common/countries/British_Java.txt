@@ -1,4 +1,4 @@
-#J4V - British Java
+#A44 - British Java
 
 graphical_culture = westerngfx
 

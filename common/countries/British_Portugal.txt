@@ -1,4 +1,4 @@
-#P0R - British Portugal
+#A13 - British Portugal
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#RU5 - British Russia
+#A16 - British Russia
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#A4A - British Antarctica
+#A84 - British Antarctica
 
 graphical_culture = westerngfx
 

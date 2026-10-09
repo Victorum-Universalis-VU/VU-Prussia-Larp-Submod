@@ -1,4 +1,4 @@
-#M0C - British Morocco
+#A37 - British Morocco
 
 graphical_culture = westerngfx
 

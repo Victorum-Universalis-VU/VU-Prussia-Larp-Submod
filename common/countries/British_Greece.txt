@@ -1,4 +1,4 @@
-#GR3 - British Greece
+#A07 - British Greece
 
 graphical_culture = westerngfx
 

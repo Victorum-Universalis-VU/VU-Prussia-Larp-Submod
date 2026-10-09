@@ -1,4 +1,4 @@
-#BU1 - British Bulgaria
+#A26 - British Bulgaria
 
 graphical_culture = westerngfx
 

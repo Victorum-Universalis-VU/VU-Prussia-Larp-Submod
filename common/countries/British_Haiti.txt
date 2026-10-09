@@ -1,4 +1,4 @@
-#H4T - British Haiti
+#A74 - British Haiti
 
 graphical_culture = westerngfx
 

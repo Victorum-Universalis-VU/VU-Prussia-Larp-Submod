@@ -1,4 +1,4 @@
-#C1L - British Chile
+#A69 - British Chile
 
 graphical_culture = westerngfx
 

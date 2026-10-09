@@ -1,4 +1,4 @@
-#T3X - British Texas
+#A82 - British Texas
 graphical_culture = westerngfx
 
 #New Colour

@@ -1,4 +1,4 @@
-#AG4 - British Algeria
+#A29 - British Algeria
 
 graphical_culture = westerngfx
 

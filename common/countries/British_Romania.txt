@@ -1,4 +1,4 @@
-#R0M - British Romania
+#A15 - British Romania
 
 graphical_culture = westerngfx
 

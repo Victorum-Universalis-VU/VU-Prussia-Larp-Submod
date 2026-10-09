@@ -1,4 +1,4 @@
-#C4L - British California
+#A80 - British California
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#EC4 - British Ecuador
+#A72 - British Ecuador
 
 graphical_culture = westerngfx
 

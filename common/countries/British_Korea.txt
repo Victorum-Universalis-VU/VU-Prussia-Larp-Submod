@@ -1,4 +1,4 @@
-#K0R - British Korea
+#A45 - British Korea
 
 graphical_culture = westerngfx
 

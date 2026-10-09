@@ -1,4 +1,4 @@
-#M3X - British Mexico
+#A75 - British Mexico
 
 graphical_culture = westerngfx
 

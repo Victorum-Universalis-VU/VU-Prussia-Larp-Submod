@@ -1,4 +1,4 @@
-#E5T - British Estonia
+#A03 - British Estonia
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#UK4 - British Ukraine
+#A20 - British Ukraine
 
 graphical_culture = westerngfx
 

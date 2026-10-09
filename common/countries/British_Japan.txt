@@ -1,4 +1,4 @@
-#J4P - British Japan
+#A43 - British Japan
 
 graphical_culture = westerngfx
 

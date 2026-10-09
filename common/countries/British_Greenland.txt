@@ -1,4 +1,4 @@
-#G3N - British Greenland
+#A73 - British Greenland
 
 graphical_culture = westerngfx
 

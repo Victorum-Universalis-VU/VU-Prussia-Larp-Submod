@@ -1,4 +1,4 @@
-#N0R - British Norway
+#A11 - British Norway
 
 graphical_culture = westerngfx
 

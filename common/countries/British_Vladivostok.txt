@@ -1,4 +1,4 @@
-#VL4 - British Vladivostok
+#A61 - British Vladivostok
 
 graphical_culture = westerngfx
 

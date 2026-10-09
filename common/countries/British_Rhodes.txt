@@ -1,4 +1,4 @@
-#RH0 - British Rhodes
+#A14 - British Rhodes
 
 graphical_culture = westerngfx
 

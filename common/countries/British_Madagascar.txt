@@ -1,4 +1,4 @@
-#M4D - British Madagascar
+#A36 - British Madagascar
 
 graphical_culture = westerngfx
 

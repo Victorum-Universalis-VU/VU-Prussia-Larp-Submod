@@ -1,4 +1,4 @@
-#KM4 - British Far East
+#A64 - British Far East
 
 graphical_culture = westerngfx
 

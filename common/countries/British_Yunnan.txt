@@ -1,4 +1,4 @@
-#YN4 - British Yunnan
+#A65 - British Yunnan
 
 graphical_culture = westerngfx
 

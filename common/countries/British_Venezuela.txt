@@ -1,4 +1,4 @@
-#V3N - British Venezuela
+#A78 - British Venezuela
 
 graphical_culture = westerngfx
 

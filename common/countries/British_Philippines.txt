@@ -1,4 +1,4 @@
-#PH1 - British Philippines
+#A52 - British Philippines
 
 graphical_culture = westerngfx
 

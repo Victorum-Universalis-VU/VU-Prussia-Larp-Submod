@@ -1,4 +1,4 @@
-#F1N - British Finland
+#A04 - British Finland
 
 graphical_culture = westerngfx
 

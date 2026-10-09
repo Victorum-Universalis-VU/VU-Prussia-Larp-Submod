@@ -1,4 +1,4 @@
-#SC4 - British Scandinavia
+#A10 - British Scandinavia
 
 graphical_culture = westerngfx
 

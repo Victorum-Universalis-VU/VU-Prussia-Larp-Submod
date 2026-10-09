@@ -1,4 +1,4 @@
-#TK3 - British Turkey
+#A56 - British Turkey
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#SP4 - British Spain
+#A17 - British Spain
 
 graphical_culture = westerngfx
 

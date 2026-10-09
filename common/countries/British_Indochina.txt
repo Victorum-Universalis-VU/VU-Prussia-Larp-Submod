@@ -1,4 +1,4 @@
-#ID0 - British Indochina
+#A42 - British Indochina
 
 graphical_culture = westerngfx
 

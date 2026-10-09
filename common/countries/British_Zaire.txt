@@ -1,4 +1,4 @@
-#Z4R - British Zaire
+#A32 - British Zaire
 
 graphical_culture = westerngfx
 

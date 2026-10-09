@@ -1,4 +1,4 @@
-#M0G - British Mongolia
+#A50 - British Mongolia
 
 graphical_culture = westerngfx
 

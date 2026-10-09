@@ -1,4 +1,4 @@
-#T1B - British Tibet
+#A55 - British Tibet
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#N3D - British Netherlands
+#A02 - British Netherlands
 
 graphical_culture = westerngfx
 

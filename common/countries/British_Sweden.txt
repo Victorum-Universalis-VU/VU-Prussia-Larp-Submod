@@ -1,4 +1,4 @@
-#SW3 - British Sweden
+#A18 - British Sweden
 
 graphical_culture = westerngfx
 

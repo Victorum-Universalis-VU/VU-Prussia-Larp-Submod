@@ -1,4 +1,4 @@
-#M4U - British Macau
+#A46 - British Macau
 
 graphical_culture = westerngfx
 

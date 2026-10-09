@@ -1,4 +1,4 @@
-#P3U - British Peru
+#A76 - British Peru
 
 graphical_culture = westerngfx
 

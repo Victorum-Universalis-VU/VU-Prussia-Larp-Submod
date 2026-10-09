@@ -1,4 +1,4 @@
-#CH1 - British China
+#A48 - British China
 
 graphical_culture = westerngfx
 

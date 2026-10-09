@@ -1,4 +1,4 @@
-#ER7 - British Eritrea
+#A33 - British Eritrea
 
 graphical_culture = westerngfx
 

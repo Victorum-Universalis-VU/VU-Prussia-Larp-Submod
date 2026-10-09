@@ -1,4 +1,4 @@
-#C4M - British Central America
+#A68 - British Central America
 
 graphical_culture = westerngfx
 

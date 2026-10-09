@@ -1,4 +1,4 @@
-#L0U - British Louisiana
+#A81 - British Louisiana
 
 graphical_culture = westerngfx
 

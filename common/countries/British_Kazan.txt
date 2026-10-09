@@ -1,4 +1,4 @@
-#K4Z - British Kazan
+#A25 - British Kazan
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#AN0 - British Angola
+#A39 - British Angola
 
 graphical_culture = westerngfx
 

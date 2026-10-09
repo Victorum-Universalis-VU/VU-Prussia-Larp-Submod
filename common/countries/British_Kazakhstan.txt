@@ -1,4 +1,4 @@
-#KZ4 - British Kazakhstan
+#A63 - British Kazakhstan
 
 graphical_culture = westerngfx
 

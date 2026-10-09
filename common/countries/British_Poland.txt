@@ -1,4 +1,4 @@
-#P0L - British Poland
+#A12 - British Poland
 
 graphical_culture = westerngfx
 

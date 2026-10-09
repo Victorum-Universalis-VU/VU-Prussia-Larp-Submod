@@ -1,4 +1,4 @@
-#L1B - British Libya
+#A35 - British Libya
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#AM3 - British Armenia
+#A58 - British Armenia
 
 graphical_culture = westerngfx
 

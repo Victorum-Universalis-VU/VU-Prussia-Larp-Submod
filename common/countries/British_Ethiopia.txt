@@ -1,4 +1,4 @@
-#ET4 - British Ethiopia
+#A34 - British Ethiopia
 
 graphical_culture = westerngfx
 

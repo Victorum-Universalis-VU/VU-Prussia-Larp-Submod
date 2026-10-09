@@ -1,4 +1,4 @@
-#MZ8 - British Mozambique
+#A40 - British Mozambique
 
 graphical_culture = westerngfx
 

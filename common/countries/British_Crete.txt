@@ -1,4 +1,4 @@
-#CR3 - British Crete
+#A28 - British Crete
 
 graphical_culture = westerngfx
 

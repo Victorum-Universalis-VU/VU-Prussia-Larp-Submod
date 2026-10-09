@@ -1,4 +1,4 @@
-#HG4 - British Hungary
+#A24 - British Hungary
 
 graphical_culture = westerngfx
 

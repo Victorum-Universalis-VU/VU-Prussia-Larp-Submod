@@ -1,4 +1,4 @@
-#YG4 - British Yugoslavia
+#A21 - British Yugoslavia
 
 graphical_culture = westerngfx
 

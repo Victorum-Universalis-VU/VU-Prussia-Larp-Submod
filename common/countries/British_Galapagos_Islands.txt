@@ -1,4 +1,4 @@
-#G4L - British Galapagos Islands
+#A83 - British Galapagos Islands
 
 graphical_culture = westerngfx
 

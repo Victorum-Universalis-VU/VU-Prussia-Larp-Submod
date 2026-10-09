@@ -1,4 +1,4 @@
-#AU5 - British Austria
+#A22 - British Austria
 
 graphical_culture = westerngfx
 

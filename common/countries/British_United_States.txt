@@ -1,4 +1,4 @@
-#US4 - British United States
+#A77 - British United States
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#CU8 - British Cuba
+#A70 - British Cuba
 
 graphical_culture = westerngfx
 

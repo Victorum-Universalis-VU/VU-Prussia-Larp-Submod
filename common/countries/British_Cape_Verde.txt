@@ -1,4 +1,4 @@
-#C4V - British Cape Verde
+#A31 - British Cape Verde
 
 graphical_culture = westerngfx
 

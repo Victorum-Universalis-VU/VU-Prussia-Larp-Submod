@@ -1,4 +1,4 @@
-#AG3 - British Argentina
+#A66 - British Argentina
 
 graphical_culture = westerngfx
 

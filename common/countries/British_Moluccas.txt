@@ -1,4 +1,4 @@
-#M0L - British Moluccas
+#A49 - British Moluccas
 
 graphical_culture = westerngfx
 

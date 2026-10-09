@@ -1,4 +1,4 @@
-#C4R - British Canary Islands
+#A30 - British Canary Islands
 
 graphical_culture = westerngfx
 

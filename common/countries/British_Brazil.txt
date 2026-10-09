@@ -1,4 +1,4 @@
-#B4Z - British Brazil
+#A67 - British Brazil
 
 graphical_culture = westerngfx
 

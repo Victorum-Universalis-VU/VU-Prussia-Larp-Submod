@@ -1,4 +1,4 @@
-#AR8 - British Arabia
+#A41 - British Arabia
 
 graphical_culture = westerngfx
 

@@ -1,4 +1,4 @@
-#FR4 - British France
+#A05 - British France
 
 graphical_culture = westerngfx
 

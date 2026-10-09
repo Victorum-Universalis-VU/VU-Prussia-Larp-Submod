@@ -1,4 +1,4 @@
-#AZ3 - British Azerbaijan
+#A62 - British Azerbaijan
 
 graphical_culture = westerngfx
 

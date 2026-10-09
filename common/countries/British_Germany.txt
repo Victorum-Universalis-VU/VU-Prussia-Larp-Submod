@@ -1,4 +1,4 @@
-#G3R - British Germany
+#A06 - British Germany
 
 graphical_culture = westerngfx
 

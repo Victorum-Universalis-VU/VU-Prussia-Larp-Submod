@@ -1,4 +1,4 @@
-#D3N - British Denmark
+#A01 - British Denmark
 
 graphical_culture = westerngfx
 
